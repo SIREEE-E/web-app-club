@@ -24,14 +24,14 @@ const projects = [
   },
   {
     name: "Online Healthcare & Support",
-    madeBy: "Sajeed Ahmed Ghalib & Jakiya Annan Joly",
+    madeBy: "Sajeed Ahmed Galib Arnob & Jakiya Annan Joly",
     domain: "Healthcare / HealthTech / Management Systems",
     description:
       "Online Healthcare & Support is a unified digital healthcare ecosystem that combines multiple healthcare-focused applications into one connected platform. The system includes solutions for blood donation services, healthcare management, pharmacy systems, AI-assisted healthcare tools, dental management, and electronic health records.",
     scope:
       "Online Healthcare & Support explores the potential of building a unified digital healthcare ecosystem through interconnected medical web applications. The platform demonstrates strong scalability in telemedicine, digital hospital infrastructure, healthcare workflow management, pharmacy systems, and patient-centered care solutions. Its modular architecture creates opportunities for future expansion into large-scale healthcare technology platforms and smart medical service systems.",
     liveLink: "http://sagacity.pythonanywhere.com/?authuser=6",
-    githubLink: "https://github.com/BloodRiver/online-health-care-and-support?authuser=6",
+    githubLink: "https://github.com/BloodRiver/online-healthcare-support",
     accent: "from-stone-950 via-neutral-600 to-zinc-200",
     glow: "bg-neutral-900/10",
     visualDomain: "Healthcare",
